@@ -1,0 +1,26 @@
+I want to write my very own interactive graphs in a few ways, as well as an app.
+
+The graphs I think will be in matplotlib, also I will use
+conda environment to manage my packages,
+git to manage my code
+GitHub to store my code
+
+So the graph will be done in Ipython notebook, with python installed on local PC.
+Also the graph will be available to view in nbviewer.
+
+Now the other option is to have a GUI, such as tkinter to display the app.
+This GUI will be available as a standalone .exe file
+(Maybe I will get some assistance from KP)
+
+3rd option is to go webapp route, either to use 
+flask: configurable, and nice for small apps.
+Django, can build up entire website with this
+Jinja2, 
+bootstrap-make websites nicer faster
+
+Data may be converted into .html. The item can play directly from browser
+Maybe I should use the quants video and determine whether I could run cloud based
+
+Also to note: Cameyo.org seems like an amazing cloud based converter, using HTML5, maybe apps will have the least amount of challenges if used directly, but the top level approach of Python lets me go back to it again and again
+
+Javascript seems to also be a strong candidate, as I saw in stackoverflow
